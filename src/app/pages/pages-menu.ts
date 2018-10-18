@@ -10,5 +10,9 @@ export const MENU_ITEMS: NbMenuItem[] = [
   {
     title: 'FEATURES',
     group: true,
+  },
+  {
+    title: 'QUẢN LÝ TRUYỆN',
+    icon: 'fa fa-book'
   }
 ];
